@@ -12,40 +12,41 @@ In this condition, you will complete weekly instructional videos with embedded r
 
 | Week | Required Activities |
 |---|---|
-| Week 1 | Complete the pretest, Week 1 video, guided notes, coaching session, frequency-building practice, and Week 1 quiz |
-| Week 2 | Complete the Week 2 video, guided notes, coaching session, frequency-building practice, and Week 2 quiz |
-| Week 3 | Complete the Week 3 video, guided notes, coaching session, frequency-building practice, and Week 3 quiz |
-| Week 4 | Complete the Week 4 video, guided notes, coaching session, frequency-building practice, and Week 4 quiz |
-| Week 5 | Complete the Week 5 video, guided notes, coaching session, frequency-building practice, posttest, and Week 5 quiz |
+| Pre Study Activities | Complete the pretest,complete onboarding survey, confirm scheduled coaching dates |
+| Week 1 | Week 1 video, coaching session, graph case study data,  and Week 1 quiz |
+| Week 2 | Complete the Week 2 video, coaching session, graph case study data,  and Week 2 quiz |
+| Week 3 | Complete the Week 3 video, coaching session, graph case study data,  and Week 3 quiz |
+| Week 4 | Complete the Week 4 video, coaching session, graph case study data, and Week 4 quiz |
+| Week 5 | Complete the Week 5 video, coaching session, chart share, posttest, and Week 5 quiz |
 
 ## Weekly Materials
 
 ### Week 1
 
-- [Pretest](#)
-- [Week 1 Video](#)
-- [Week 1 Quiz](#)
+- Pretest *(completed with onboarding survey)*
+- [Week 1 Video](https://oregon.qualtrics.com/jfe/form/SV_9vQx7gfdSovnwRo)
+- [Complete the Week 1 Quiz](https://is-redcap.uoregon.edu/surveys/?s=8K3DM9YKYWY8F8CY){.btn .btn-primary target="_blank"}
 
 ### Week 2
 
 - [Week 2 Video](#)
-- [Week 2 Quiz](#)
+- [Complete the Week 2 Quiz](https://is-redcap.uoregon.edu/surveys/?s=ALAJYYP4K4ERKPXW){.btn .btn-primary target="_blank"}
 
 ### Week 3
 
 - [Week 3 Video](#)
-- [Week 3 Quiz](#)
+- [Complete the Week 3 Quiz](https://is-redcap.uoregon.edu/surveys/?s=WCM334TRK3X3PHNK){.btn .btn-primary target="_blank"}
 
 ### Week 4
 
 - [Week 4 Video](#)
-- [Week 4 Quiz](#)
+- [Complete the Week 4 Quiz](https://is-redcap.uoregon.edu/surveys/?s=DPYCLCM7ARLJ4DEC){.btn .btn-primary target="_blank"}
 
 ### Week 5
 
 - [Week 5 Video](#)
-- [Posttest](#)
-- [Week 5 Quiz](#)
+- Posttest — data to graph will be emailed to you during Week 5.
+- [Complete the Week 5 Quiz](https://is-redcap.uoregon.edu/surveys/?s=PTXXYJAH7K9DCMHK){.btn .btn-primary target="_blank"}
 
 ## Guided Notes
 
@@ -81,12 +82,12 @@ Yes. Weekly coaching sessions are part of this condition.
 
 ### What should I do if I cannot attend my coaching session?
 
-Contact the research team as soon as possible.
+Contact the research team as soon as possible at precisionteaching5weeks@gmail.com 
 
 ### What should I do if a link does not work?
 
-Contact the research team.
+Contact the research team at precisionteaching5weeks@gmail.com 
 
 ## Contact
 
-Email: smeans@uoregon.edu
+Email: precisionteaching5weeks@gmail.com
